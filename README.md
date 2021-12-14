@@ -1,5 +1,5 @@
-# py-org
-A small console organiser written on Python (Russian-language interface)
+# py-organiser
+This is a small console organiser written on Python (Russian-language interface)
 Файл справки
 1-Телефонная книга.Телефонная книга позволяет записать имена с номерани телефонов в виде таблицы с ячейкой на 18 символов 
 в файл с расширением.txt или .pnb, а также выводить их содержимое. Для того, чтобы открыть файл, вам надо ввести ПОЛНЫЙ путь к файлу от имени диска (C:\) до самого файла.
