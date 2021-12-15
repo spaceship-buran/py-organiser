@@ -6,7 +6,7 @@
 # Author:      Ермаков С.В.
 #
 # Created:     12.04.2021
-# Licence:     GNU General Public License
+# Licence:     GNU General Public License, v3
 #-------------------------------------------------------------------------------
 print('Органайзер, версия 0.6.3')
 from datetime import*
